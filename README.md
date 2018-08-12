@@ -9,4 +9,4 @@ The loading process of Spring IOC
  - Injection of bean
 
 
-通过 http://ip:port/projectName/myController/get 输出 `di success`
+>访问 http://ip:port/projectName/myController/get ，输出 `di success`
